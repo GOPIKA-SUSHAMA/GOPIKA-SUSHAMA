@@ -4,24 +4,31 @@
 
 # ✨ Gopika Sushamakumari
 
-**MRes Artificial Intelligence – University of Wolverhampton (2025–2026)**  
-AI Researcher | Machine Learning Engineer | Information Retrieval & Recommender Systems  
+**MRes Artificial Intelligence @ University of Wolverhampton (2025–2026)** | AI Researcher – Information Retrieval & Recommender Systems | Ex-UST Software Engineer (Analytics & Data Systems) | Building end-to-end ML pipelines for predictive analytics, semantic search, and AI-driven decision systems
 
-Building **intelligent AI systems combining Machine Learning, NLP, and Information Retrieval** to solve complex decision-making problems using predictive modelling, semantic search, and hybrid ranking systems.
+Artificial Intelligence researcher and Machine Learning engineer developing data-driven AI systems combining machine learning, information retrieval, and NLP. Experience building hybrid IR–ML recommendation systems, predictive risk models, multi-agent AI evaluation frameworks, and semantic document processing pipelines. Hands-on across predictive modelling, ensemble learning, transformer-based NLP, and explainable AI, focusing on real-world applications in education, healthcare analytics, and decision-support systems.
+
+**Tech Stack** : Python, SQL, PyTorch, TensorFlow, Scikit-learn, spaCy, Transformers, Random Forest, XGBoost, BM25, SBERT, Flask APIs, Azure, Power BI, Power Apps, Power Automate.
+
+**Impact**: Developed ML systems achieving 94% classification accuracy in risk prediction, built hybrid semantic recommendation pipelines, and implemented enterprise-scale analytics systems improving data processing performance by ~70%.
+
+📍 Wolverhampton, UK | Right to Work in the UK | Open to AI Engineer, Machine Learning Engineer, Power BI developer, and Power Platform roles across the UK.
 
 
 # Research Focus
 
-My current research focuses on **Hybrid IR–ML recommendation systems** that analyse unstructured CV data to generate ranked postgraduate course recommendations.
+My research explores how Artificial Intelligence can support students and course seekers in making informed educational decisions. Many prospective postgraduate applicants rely on manual searches or keyword-based systems that fail to capture the semantic alignment between a candidate’s skills, experience, and suitable academic programmes, creating a gap in personalised guidance. To address this, I investigate **Hybrid Information Retrieval and Machine Learning systems** that transform unstructured CV data into structured candidate profiles and generate ranked course recommendations. By combining transformer-based semantic embeddings with ranking models, the system aims to deliver more accurate and explainable recommendations beyond traditional keyword matching.
 
 Core research areas include:
 
-• Information Retrieval  
-• Recommender Systems  
-• Natural Language Processing  
-• Semantic Search & Embeddings  
-• Multi-Agent AI Systems  
-• Explainable AI & Ranking Evaluation  
+• Information Retrieval – Sparse and dense retrieval methods (BM25, semantic embeddings) for matching long-form documents
+• Recommender Systems – AI-driven ranking models to personalise postgraduate programme recommendations
+• Natural Language Processing – CV parsing, feature extraction, and semantic similarity using transformer architectures
+• Semantic Search & Embeddings – Leveraging BERT/SBERT representations for contextual understanding of candidate profiles
+• Multi-Agent AI Systems – CAMEL-based reasoning frameworks to improve explainability and transparency in recommendation pipelines
+• Explainable AI & Evaluation – Ranking evaluation using metrics such as nDCG@K, Precision@K, and correlation with expert judgement
+
+The long-term goal of this research is to develop AI-powered decision-support systems that improve accessibility, transparency, and fairness in educational guidance, helping students discover programmes aligned with their skills, aspirations, and career trajectories.
 
 
 # Technical Expertise
@@ -43,16 +50,10 @@ ETL Pipelines • Feature Engineering • Data Preprocessing
 Model Evaluation • Cross Validation • Ranking Metrics (nDCG, Precision@K)
 
 ### Deployment
-Flask APIs • REST Services • JSON Pipelines • CI/CD
+Flask APIs • REST Services • JSON Pipelines • CI/CD Pipelines
 
 ### Cloud & Analytics
 Microsoft Azure • Power BI • SQL Server • Data Modelling
-
-# Current Research Project
-
-### Hybrid IR–ML Course Recommendation System
-
-Developing an **end-to-end recommendation system** combining Information Retrieval and Machine Learning.
 
 Key innovations:
 
