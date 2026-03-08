@@ -9,7 +9,6 @@ AI Researcher | Machine Learning Engineer | Information Retrieval & Recommender 
 
 Building **intelligent AI systems combining Machine Learning, NLP, and Information Retrieval** to solve complex decision-making problems using predictive modelling, semantic search, and hybrid ranking systems.
 
----
 
 # Research Focus
 
@@ -24,7 +23,6 @@ Core research areas include:
 • Multi-Agent AI Systems  
 • Explainable AI & Ranking Evaluation  
 
----
 
 # Technical Expertise
 
@@ -50,8 +48,6 @@ Flask APIs • REST Services • JSON Pipelines • CI/CD
 ### Cloud & Analytics
 Microsoft Azure • Power BI • SQL Server • Data Modelling
 
----
-
 # Current Research Project
 
 ### Hybrid IR–ML Course Recommendation System
@@ -67,8 +63,6 @@ Key innovations:
 • Integration of **CAMEL multi-agent reasoning framework** for explainable recommendations  
 
 This research explores how **AI can improve decision-support systems in education by aligning candidate profiles with postgraduate programmes using semantic understanding rather than keyword matching.**
-
----
 
 # Featured Projects
 
@@ -87,8 +81,6 @@ Multi-agent AI simulation inspired by CAMEL architecture for automated resume ev
 ### Diabetes Risk Prediction
 Healthcare ML system predicting diabetes risk factors using classification models and feature engineering.
 
----
-
 # Industry Experience
 
 ### Software Engineer – UST Global (2022–2025)
@@ -103,7 +95,6 @@ Key contributions:
 • Implemented CI/CD workflows and automated monitoring pipelines  
 • Developed enterprise dashboards using **Power BI and Azure data services**
 
----
 
 # GitHub Activity
 
@@ -115,7 +106,6 @@ Key contributions:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOPIKA-SUSHAMA&layout=compact&theme=tokyonight"/>
 </p>
 
----
 
 # Education
 
@@ -130,7 +120,6 @@ Cochin University of Science and Technology
 
 Final Project: Intelligent Shopping Trolley (IoT + Embedded Systems)
 
----
 
 # Certifications
 
@@ -139,7 +128,6 @@ Kaggle – Machine Learning
 Kaggle – Natural Language Processing  
 Google Cloud Ready Facilitator
 
----
 
 # Connect With Me
 
@@ -151,7 +139,5 @@ https://github.com/GOPIKA-SUSHAMA
 
 Email  
 gvndgpk@gmail.com
-
----
 
 ⭐ Open to **AI Engineer | Machine Learning Engineer | Power BI |Power Platform roles in the UK**
