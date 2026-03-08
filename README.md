@@ -113,17 +113,6 @@ Healthcare ML system predicting **diabetes risk factors using classification mod
 `Microsoft Azure` `Power BI` `SQL Server`
 
 
-# GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GOPIKA-SUSHAMA&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOPIKA-SUSHAMA&layout=compact&theme=tokyonight"/>
-</p>
-
-
 
 # 🎓 Education
 
